@@ -84,7 +84,7 @@
 
 * 实验测试的函数
 
-  ![printFunc](verbose_photos/printFunc.png)
+  ![printFunc](./printFunc.png)
 
   测试函数获取当前时间，与预约时间计算时间差。
 
