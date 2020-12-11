@@ -15,7 +15,7 @@
 
 <div align = "center"><b>高并发时间轮定时器总体框图</b></div>
 
-![时间轮定时器总览图](verbose_photos/时间轮定时器总览图.png)
+![时间轮定时器总览图](时间轮定时器总览图.png)
 
 * Ticker
 
@@ -90,21 +90,21 @@
 
 * 定时任务结果
 
-  ![expirationSnippet](verbose_photos/expirationSnippet.png)
+  ![expirationSnippet](expirationSnippet.png)
 
   定时任务测试函数，3个线程，每个线程添加33334个任务，共100002个任务。
 
-  ![addExpresult](verbose_photos/addExpresult.png)
+  ![addExpresult](addExpresult.png)
 
   １s内定时10万个测试函数，通过打印信息可知延时在840ms左右
 
 * 延时任务结果
 
-  ![delaySnippet](verbose_photos/delaySnippet.png)
+  ![delaySnippet](delaySnippet.png)
 
   延时任务测试函数，3个线程，每个线程添加33334个任务，共100002个任务。
 
-  ![addDelayresult](verbose_photos/addDelayresult.png)
+  ![addDelayresult](addDelayresult.png)
 
   １s内定时10万个测试函数，通过打印信息可知延时在840ms左右
 
