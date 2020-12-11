@@ -106,6 +106,6 @@
 
   ![addDelayresult](addDelayresult.png)
 
-  １s内定时10万个测试函数，通过打印信息可知延时在840ms左右
+  １s内延时10万个测试函数，通过打印信息可知延时在840ms左右
 
   
