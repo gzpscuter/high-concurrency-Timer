@@ -1,0 +1,5 @@
+project(delayqueue)
+ADD_DEFINITIONS(-std=c++11)
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR})
+add_executable(delayqueue DelayQueue.cc main.cc)
+#add_library(delayqueue SHARED DelayQueue.cc)

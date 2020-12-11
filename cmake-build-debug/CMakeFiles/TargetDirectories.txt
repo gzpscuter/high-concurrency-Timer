@@ -1,0 +1,3 @@
+/media/zjw/数据/gzp/normal_exp/Timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/zjw/数据/gzp/normal_exp/Timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/zjw/数据/gzp/normal_exp/Timer/cmake-build-debug/CMakeFiles/timer.dir

@@ -1,0 +1,3 @@
+/media/zjw/数据/gzp/normal_exp/wheeltimer/build/CMakeFiles/rebuild_cache.dir
+/media/zjw/数据/gzp/normal_exp/wheeltimer/build/CMakeFiles/timer.dir
+/media/zjw/数据/gzp/normal_exp/wheeltimer/build/CMakeFiles/edit_cache.dir
