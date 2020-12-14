@@ -28,7 +28,7 @@
 
 * DelayQueue
 
-  由小顶堆构建，通过offer加入延时任务，通过poll获取到期任务，利用自定义SpinLock可以同步poll和offer操作，减少mutex带来的线程切换开销。
+  由大顶堆构建，通过offer加入延时任务，通过poll获取到期任务，利用自定义SpinLock可以同步poll和offer操作，减少mutex带来的线程切换开销。
 
 * ThreadPool
 
